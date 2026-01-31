@@ -62,7 +62,7 @@
 // let sum = 0
 
 // for(let i = 0; i <= text.length; i++){
-//     sum = sum + i
+//     sum = sum + parseInt(text[i])
 // }
 
 // console.log(sum);
